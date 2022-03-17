@@ -1,5 +1,5 @@
 # ParkAccessibility
-An Assessment of Park Accessibility and Equity using GIS and Statistical Analyses
+### An Assessment of Park Accessibility and Equity using GIS and Statistical Analyses
 
 This project served as my undergraduate geography capstone project, and sought to model and visualize potential discrepancies in accessibility to parks in Minneapolis, Minnesota.
 
