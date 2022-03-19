@@ -28,4 +28,4 @@ The project strictly utilized geospatial and statistical methods to find underly
 
 
 
-The research concluded that there is statistically significant evidence in favor of the claim that BIPOC and low-income communities face greater difficulty in accessing parks. Furthermore, statistically significant evidence shows that the distribution of parks in the City of Minneapolis is inequitable and serves White and high-income communities more adequately.
+The research concluded that there is statistically significant evidence in favor of the claim that minority and low-income communities face greater difficulty in accessing parks. Furthermore, statistically significant evidence shows that the distribution of parks in the City of Minneapolis is inequitable and serves White and high-income communities more adequately.
